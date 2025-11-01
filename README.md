@@ -32,13 +32,13 @@ I love **building interactive projects, solving real-world problems, and learnin
 
 | Skill | Level |
 |-------|-------|
-| C++ | ![C++](https://progress-bar.dev/100/) |
-| Python | ![Python](https://progress-bar.dev/90/) |
-| C | ![C](https://progress-bar.dev/80/) |
-| HTML/CSS | ![HTML/CSS](https://progress-bar.dev/90/) |
-| JavaScript | ![JS](https://progress-bar.dev/80/) |
-| SQL | ![SQL](https://progress-bar.dev/70/) |
-| Assembly | ![Assembly](https://progress-bar.dev/60/) |
+| C++ | ![C++](https://img.shields.io/badge/Expert-80%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Python | ![Python](https://img.shields.io/badge/Advanced-90%25-yellow?style=for-the-badge&logo=python&logoColor=white) |
+| C | ![C](https://img.shields.io/badge/Proficient-80%25-lightgrey?style=for-the-badge&logo=c&logoColor=white) |
+| HTML/CSS | ![HTML/CSS](https://img.shields.io/badge/Advanced-90%25-orange?style=for-the-badge&logo=html5&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/Proficient-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
+| SQL | ![SQL](https://img.shields.io/badge/Intermediate-70%25-blueviolet?style=for-the-badge&logo=mysql&logoColor=white) |
+| Assembly | ![Assembly](https://img.shields.io/badge/Intermediate-70%25-grey?style=for-the-badge) |
 
 **Tools & Platforms:** Git, GitHub, Jira, SCRUM, Notion, Bash scripting, Qt, SFML  
 
