@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Kinza Afzal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kinza" />
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/kinza-afzal7-) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/kinza7124)
@@ -74,7 +77,9 @@ I love **building interactive projects, solving real-world problems, and learnin
 ## 🎓 Education & Honors
 
 **Bachelor of Computer Science** - FAST NUCES *(Aug 2023 - Aug 2027)*
+
 **A-Levels** - Highbrow College *(Aug 2021 - Jun 2023)* | 3A*s 1A   
+
 **O-Levels** - Happy Palace Group of School *(Aug 2019 - Jun 2021)* | 8A*s  
 
 **Awards:** Rector’s List (Fall 2024, Spring 2025), Dean’s List (Fall 2023, Spring 2024)  
