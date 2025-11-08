@@ -61,14 +61,14 @@ I love **building interactive projects, solving real-world problems, and learnin
 
 <div align="center">
 
-| Project | Tech Stack | Preview | Link |
-|---------|------------|--------|------|
-| Traffic Control Simulation | C++, OS Concepts | ![Traffic GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) | [GitHub](https://github.com/kinza7124/Traffic_Simulation-OS_Project) |
-| Regex to DFA & CFG Converter | Theory of Automata | ![DFA GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) | [GitHub](https://github.com/kinza7124/RegexToDFA-CFG-TOAProject) |
-| Transport Fee Generation System | C & OOP | ![Fee GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) | [GitHub](https://github.com/kinza7124/PFproject-TransportFee-Generation-System) |
-| Algorithm Visualiser | HTML, CSS, JavaScript | ![Algo GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) | [GitHub](https://github.com/kinza7124/Algorithm-Visualiser) |
-| Heart Disease Dataset Analysis | Python, Pandas, Matplotlib | ![Data GIF](https://media.giphy.com/media/3o7abld9ZlR6yF1sX6/giphy.gif) | [GitHub](https://github.com/kinza7124/HeartDisease-Dataset-Analysis) |
-| Sales Data Analysis | Python, NumPy, Seaborn | ![Sales GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) | [GitHub](https://github.com/kinza7124/SalesDataAnalysis) |
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| Traffic Control Simulation | C++, OS Concepts | [GitHub](https://github.com/kinza7124/Traffic_Simulation-OS_Project) |
+| Regex to DFA & CFG Converter | Theory of Automata | [GitHub](https://github.com/kinza7124/RegexToDFA-CFG-TOAProject) |
+| Transport Fee Generation System | C & OOP | [GitHub](https://github.com/kinza7124/PFproject-TransportFee-Generation-System) |
+| Algorithm Visualiser | HTML, CSS, JavaScript | [GitHub](https://github.com/kinza7124/Algorithm-Visualiser) |
+| Heart Disease Dataset Analysis | Python, Pandas, Matplotlib | [GitHub](https://github.com/kinza7124/HeartDisease-Dataset-Analysis) |
+| Sales Data Analysis | Python, NumPy, Seaborn | [GitHub](https://github.com/kinza7124/SalesDataAnalysis) |
 
 </div>
 
