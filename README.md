@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=3500&pause=500&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kinza" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=500&color=0096C7&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kinza" />
 </p>
 
 
@@ -48,14 +48,45 @@ I love **building interactive projects, solving real-world problems, and learnin
 **Languages:** English, Urdu  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=radical)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kinza7124&label=Profile+Views&color=023E8A&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kinza7124?label=Followers&color=023E8A&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kinza7124?label=Stars&color=023E8A&style=flat" alt="Stars" />
+</p>
 
----
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=kinza7124&theme=flat&margin-w=10&no-frame=true&column=5" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=default&title_color=023E8A&text_color=000000" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=default&title_color=023E8A&icon_color=023E8A&text_color=000000" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=default&fire=023E8A&ring=023E8A&currStreakLabel=023E8A" />
+
+</div>
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+
+  <!-- Pull Shark -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark" />
+
+  <!-- Quickdraw -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
+
+</p>
+
 
 ## 💻 Projects
 
