@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/kinza-afzal7-) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/kinza7124)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=about.me&logoColor=white&link=https://your-portfolio.com)](ahttps://portfolio-gamma-three-20.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=about.me&logoColor=white&link=https://your-portfolio.com)](https://portfolio-gamma-three-20.vercel.app/)  
 📧 kinzaafzal07122004@gmail.com 
 
 ---
