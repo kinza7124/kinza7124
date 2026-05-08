@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me
-I'm a **Computer Science undergraduate (5th semester)** passionate about **frontend development, algorithms, data structures, and open-source contributions**.  
+I'm a **Computer Science undergraduate (6th semester)** passionate about **frontend development, algorithms, data structures, and open-source contributions**.  
 I love **building interactive projects, solving real-world problems, and learning new technologies**.  
 
 ---
