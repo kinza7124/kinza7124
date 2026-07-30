@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-gamma-three-20.vercel.app">
+<a href="https://portfolio-kinza-bscs.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"/>
 
 </a>
