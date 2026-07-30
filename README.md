@@ -290,19 +290,19 @@ https://www.npmjs.com/package/@kinza7/import-optimizer
 
 # Connect
 
-📧 **Email**
+**Email**
 
 kinzaafzal07122004@gmail.com
 
-🌐 Portfolio
+Portfolio
 
-https://portfolio-gamma-three-20.vercel.app
+https://portfolio-kinza-bscs.vercel.app/
 
-💼 LinkedIn
+LinkedIn
 
 https://linkedin.com/in/kinza-afzal7-
 
-🐙 GitHub
+GitHub
 
 https://github.com/kinza7124
 
