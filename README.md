@@ -264,28 +264,30 @@ https://www.npmjs.com/package/@kinza7/import-optimizer
 
 ---
 
-# GitHub
+## 📊 GitHub Stats 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=kinza7124&label=Profile+Views&color=023E8A&style=flat" alt="Profile Views" /> 
+<img src="https://img.shields.io/github/followers/kinza7124?label=Followers&color=023E8A&style=flat" alt="Followers" /> 
+<img src="https://img.shields.io/github/stars/kinza7124?label=Stars&color=023E8A&style=flat" alt="Stars" /> 
+</p> 
+<div align="center"> 
+<!-- GitHub Trophies --> 
+<img src="https://github-profile-trophy.vercel.app/?username=kinza7124&theme=flat&margin-w=10&no-frame=true&column=5" />
+<!-- Top Languages --> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=default&title_color=023E8A&text_color=000000" /> 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=default&title_color=023E8A&icon_color=023E8A&text_color=000000" /> <!-- Streak Stats --> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=default&fire=023E8A&ring=023E8A&currStreakLabel=023E8A" /> 
+</div>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kinza7124&theme=algolia&margin-w=15&column=4&no-frame=true"/>
-
+### 🏅 GitHub Achievements 
+<p align="center"> <!-- Pull Shark --> 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark" />
+<!-- Quickdraw --> 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+<!-- YOLO --> 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # Connect
