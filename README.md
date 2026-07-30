@@ -1,144 +1,311 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=500&color=0096C7&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kinza" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=700&color=0096C7&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Kinza+Afzal;Software+Development+Engineer+-+AI%2FML;Building+Production+Ready+AI+Systems;Computer+Vision+%7C+LLMs+%7C+Full+Stack" />
 </p>
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/kinza-afzal7-) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/kinza7124)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=about.me&logoColor=white&link=https://your-portfolio.com)](https://portfolio-gamma-three-20.vercel.app/)  
-📧 kinzaafzal07122004@gmail.com 
-
----
-
-## 🌟 About Me
-I'm a **Computer Science undergraduate (6th semester)** passionate about **frontend development, algorithms, data structures, and open-source contributions**.  
-I love **building interactive projects, solving real-world problems, and learning new technologies**.  
-
----
-
-## 💼 Work Experience
-**Virtual Frontend Development Intern - MSN Academy** *(Aug 2025 - Present)*  
-- Designed & deployed a responsive frontend website: [MSN Academy](https://msn-academy-ten.vercel.app/)  
-
-**Open Source Contributor - GirlScript Summer of Code (GSSoC)** *(Jul 2025 - Present)*  
-- Contributed to Web & Machine Learning projects.  
-- Fixed bugs, implemented features, optimized codebases.  
-
-**Teaching Assistant - Data Structures** *(Present)*  
-- Mentoring students and evaluating assignments & quizzes.  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages & Frameworks**  
-
-| Skill | Level |
-|-------|-------|
-| C++ | ![C++](https://img.shields.io/badge/Expert-80%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Python | ![Python](https://img.shields.io/badge/Advanced-90%25-yellow?style=for-the-badge&logo=python&logoColor=white) |
-| C | ![C](https://img.shields.io/badge/Proficient-80%25-lightgrey?style=for-the-badge&logo=c&logoColor=white) |
-| HTML/CSS | ![HTML/CSS](https://img.shields.io/badge/Advanced-90%25-orange?style=for-the-badge&logo=html5&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/Proficient-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
-| SQL | ![SQL](https://img.shields.io/badge/Intermediate-70%25-blueviolet?style=for-the-badge&logo=mysql&logoColor=white) |
-| Assembly | ![Assembly](https://img.shields.io/badge/Intermediate-70%25-grey?style=for-the-badge) |
-
-**Tools & Platforms:** Git, GitHub, Jira, SCRUM, Notion, Bash scripting, Qt, SFML  
-
-**Languages:** English, Urdu  
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kinza7124&label=Profile+Views&color=023E8A&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kinza7124?label=Followers&color=023E8A&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kinza7124?label=Stars&color=023E8A&style=flat" alt="Stars" />
-</p>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=kinza7124&theme=flat&margin-w=10&no-frame=true&column=5" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=default&title_color=023E8A&text_color=000000" />
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=default&title_color=023E8A&icon_color=023E8A&text_color=000000" />
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=default&fire=023E8A&ring=023E8A&currStreakLabel=023E8A" />
-
-</div>
-
-### 🏅 GitHub Achievements
 
 <p align="center">
 
-  <!-- Pull Shark -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95" alt="Pull Shark" />
+<a href="https://portfolio-gamma-three-20.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"/>
 
-  <!-- Quickdraw -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+</a>
 
-  <!-- YOLO -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
+<a href="https://www.linkedin.com/in/kinza-afzal7-/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/kinza7124">
+
+<img src="https://img.shields.io/github/followers/kinza7124?style=for-the-badge"/>
+
+</a>
+
+<a href="mailto:kinzaafzal07122004@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+
+</a>
 
 </p>
 
+---
 
-## 💻 Projects
+# About Me
 
-<div align="center">
+BS Computer Science @ FAST NUCES (CGPA **3.93/4.00**)
 
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| Traffic Control Simulation | C++, OS Concepts | [GitHub](https://github.com/kinza7124/Traffic_Simulation-OS_Project) |
-| Regex to DFA & CFG Converter | Theory of Automata | [GitHub](https://github.com/kinza7124/RegexToDFA-CFG-TOAProject) |
-| Transport Fee Generation System | C & OOP | [GitHub](https://github.com/kinza7124/PFproject-TransportFee-Generation-System) |
-| Algorithm Visualiser | HTML, CSS, JavaScript | [GitHub](https://github.com/kinza7124/Algorithm-Visualiser) |
-| Heart Disease Dataset Analysis | Python, Pandas, Matplotlib | [GitHub](https://github.com/kinza7124/HeartDisease-Dataset-Analysis) |
-| Sales Data Analysis | Python, NumPy, Seaborn | [GitHub](https://github.com/kinza7124/SalesDataAnalysis) |
+🏅 Rector's List (3×) • Dean's List (2×)
 
-</div>
+AI/ML Engineer Intern @ **SYSLAB.AI**
+
+Research Programmer @ **FAST NUCES**
+
+💡 I enjoy building production-grade AI applications combining
+
+- Computer Vision
+- LLMs
+- Multi-Agent Systems
+- Backend Engineering
+- MLOps
+- Full Stack Development
+- API testing
+- Schema designing
+- DevOps engineering
 
 ---
 
-## 🎓 Education & Honors
+# 🚀 Current Work
 
-**Bachelor of Computer Science** - FAST NUCES *(Aug 2023 - Aug 2027)*
+### AI/ML Engineer Intern — SYSLAB.AI
 
-**A-Levels** - Highbrow College *(Aug 2021 - Jun 2023)* | 3A*s 1A   
-
-**O-Levels** - Happy Palace Group of School *(Aug 2019 - Jun 2021)* | 8A*s  
-
-**Awards:** Rector’s List (Fall 2024, Spring 2025), Dean’s List (Fall 2023, Spring 2024)  
-
----
-
-## 🌱 Certifications
-
-- Deloitte Technology Consulting Virtual Job Simulation  
-- DataCamp: Supervised Learning with Scikit-learn  
-- Simplilearn: Introduction to Artificial Intelligence  
+- Computer Vision Pipelines
+- RF-DETR
+- Roboflow
+- OpenCV
+- n8n Automations
+- PostgreSQL
+- REST APIs
+- Psychometric Interview Scoring using fine-tuned Qwen3-8B
 
 ---
 
-## 🌟 Leadership & Co-Curricular Activities
+### Research Programmer — FAST NUCES
 
-- Head of Design Team - IEEE Society  
-- Deputy Design Team - Literary Club Society  
-- Star Performer - Seminar Team, Developers Day’25  
-- Co-Lead of Game Development - Development Student Club Society  
-- Guest Relations Coordinator - PROCOM’25 & Developers Day’25  
-- Coordinator, Automation Team - Developers Day 2025  
+Working on
+
+- Multi-Agent AI
+- Synchromodal Transportation
+- Neo4j Knowledge Graphs
+- OR-Tools
+- Planning & Optimization
+- LangGraph
+- Hyperledger fabric
+- chaincode
 
 ---
 
-## ⚡ Hobbies
-Table Tennis, Painting, Writing, Chess  
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ---
 
-*“Strive for continuous improvement, instead of perfection.”*
+## AI / ML
+
+Python • PyTorch • TensorFlow • OpenCV • RF-DETR • Roboflow
+
+LangChain • LangGraph • RAG
+
+LLMs • Multi-Agent Systems
+
+FastAPI
+
+MLflow
+
+HuggingFace
+
+---
+
+## Backend
+
+Node.js
+
+Express
+
+FastAPI
+
+REST APIs
+
+Prisma
+
+Supabase
+
+---
+
+## Databases
+
+PostgreSQL
+
+MongoDB
+
+MySQL
+
+Neo4j
+
+Pinecone
+
+---
+
+## DevOps
+
+AWS EC2
+
+Docker
+
+GitHub Actions
+
+CI/CD
+
+Vercel
+
+Render
+
+---
+
+# Featured Projects
+
+## Interview Psychometric Scoring
+
+Fine-tuned Qwen3-8B to score interviews across 10 psychometric dimensions with rule-based normalization.
+
+---
+
+## Hospital PPE Monitoring
+
+Production Computer Vision pipeline using
+
+- OpenCV
+- RF-DETR
+- Roboflow
+
+97.8% mAP@50
+
+---
+
+## AI Transportation Planning
+
+Research comparing
+
+- LLM Agents
+- OR-Tools
+- Simulated Annealing
+- ALNS
+- GA
+- ACO
+
+for disruption replanning.
+
+---
+
+## Flood Depth Estimation
+
+Attention U-Net
+
+ZoeDepth
+
+FastAPI
+
+MLflow
+
+Gradio
+
+HuggingFace Spaces
+
+---
+
+## Medical RAG Assistant
+
+LangChain
+
+Pinecone
+
+AWS EC2
+
+Docker
+
+CI/CD
+
+---
+
+## Edu Matrix LMS
+
+Node.js
+
+PostgreSQL
+
+PL/pgSQL
+
+Supabase
+
+Cloudinary
+
+MVC
+
+---
+
+# Open Source
+
+### GirlScript Summer of Code
+
+8 merged pull requests
+
+ML
+
+DSA
+
+Open Source
+
+---
+
+### Import Optimizer (npm)
+
+Published an npm package that rewrites large JS/TS imports into tree-shakable imports using AST transformations.
+
+https://www.npmjs.com/package/@kinza7/import-optimizer
+
+---
+
+# GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kinza7124&theme=algolia&margin-w=15&column=4&no-frame=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kinza7124&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinza7124&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinza7124&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Connect
+
+📧 **Email**
+
+kinzaafzal07122004@gmail.com
+
+🌐 Portfolio
+
+https://portfolio-gamma-three-20.vercel.app
+
+💼 LinkedIn
+
+https://linkedin.com/in/kinza-afzal7-
+
+🐙 GitHub
+
+https://github.com/kinza7124
+
+---
+
+> *Building AI systems that solve real-world problems through research, engineering and open source.*
