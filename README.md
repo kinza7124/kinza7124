@@ -264,7 +264,7 @@ https://www.npmjs.com/package/@kinza7/import-optimizer
 
 ---
 
-## 📊 GitHub Stats 
+## GitHub Stats 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=kinza7124&label=Profile+Views&color=023E8A&style=flat" alt="Profile Views" /> 
 <img src="https://img.shields.io/github/followers/kinza7124?label=Followers&color=023E8A&style=flat" alt="Followers" /> 
@@ -288,6 +288,7 @@ https://www.npmjs.com/package/@kinza7/import-optimizer
 <!-- YOLO --> 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
 </p>
+
 ---
 
 # Connect
