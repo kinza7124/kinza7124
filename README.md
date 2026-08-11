@@ -66,7 +66,7 @@ Research Programmer @ **FAST NUCES**
 - n8n Automations
 - PostgreSQL
 - REST APIs
-- Psychometric Interview Scoring using fine-tuned Qwen3-8B
+- Psychometric Interview Scoring using fine-tuned Qwen2.5-3B
 
 ---
 
