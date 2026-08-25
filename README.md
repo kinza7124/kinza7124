@@ -203,6 +203,7 @@ int main() {
 <p>
 <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F5A623&labelColor=161B22"/>&nbsp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=F5A623&labelColor=161B22"/>&nbsp;<img alt="MLflow" src="https://img.shields.io/badge/MLflow-161B22?style=for-the-badge&logo=mlflow&logoColor=F5A623&labelColor=161B22"/>&nbsp;<img alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=F5A623&labelColor=161B22"/>&nbsp;/>
 </p>
+
 ---
 
 ## Education
