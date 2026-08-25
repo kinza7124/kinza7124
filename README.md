@@ -160,6 +160,12 @@ int main() {
 
 ---
 
+## 📄 Publications
+
+- **[Data Security Posture Management (DSPM) in the Era of Generative AI and Agentic AI: Toward an Intelligent Agentic DSPM (IADSPM) Framework](https://www.researchgate.net/publication/413599467_Data_Security_Posture_Management_DSPM_in_the_Era_of_Generative_AI_and_Agentic_AI_Toward_an_Intelligent_Agentic_DSPM_IADSPM_Framework)**: Technical Note, ResearchGate. Proposes an intelligent, agentic approach to Data Security Posture Management (DSPM) for securing data across generative and agentic AI systems.
+
+---
+
 ## 🏅 GitHub Achievements
 
 <p align="center">
