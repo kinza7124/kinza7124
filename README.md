@@ -127,6 +127,7 @@ int main() {
 - **[Invite Flow](https://digital-invite-genie.vercel.app/)**: Supabase Postgres backend with 4 relational tables, 12+ Row-Level Security policies, and security-definer functions; email/password + Google OAuth auth and QR-based invitation/check-in flows, deployed on Vercel with CI-driven multi-environment config.
 - **[PixelLang Compiler](https://github.com/kinza7124/PixelLang)**: A retro-inspired domain-specific language for pixel art generation, with a complete compiler pipeline (DFA-based lexer, LL(1) recursive-descent parser, 37-rule semantic analyzer, Pillow-based codegen) and a full Tkinter GUI IDE with syntax highlighting and live preview. Built for CS4031 Compiler Construction.
 - **[Gravity Switch](https://github.com/kinza7124/gravity-flip)**: A fast-paced 2D auto-runner mobile game (React Native + Expo, TypeScript, Zustand) where a single tap flips gravity to dodge neon obstacles in a cyberpunk world, with progressive difficulty, particle effects, and haptic feedback, built end-to-end with EAS builds.
+- **[Traffic Simulation System](https://github.com/kinza7124/Traffic_Simulation-OS_Project)**: A multi-threaded traffic simulation (C, POSIX pthreads) modeling traffic flow across multiple intersections, with mutex/condition-variable synchronization, priority scheduling for emergency vehicles, `inotify`-based hot-reloading config, and a real-time `ncurses` GUI with live system performance monitoring. Built for an Operating Systems course.
 
 <div align="center">
 
