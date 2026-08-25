@@ -144,6 +144,9 @@ int main() {
 <a href="https://github.com/kinza7124/gravity-flip">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kinza7124&repo=gravity-flip&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&border_color=161B22" alt="Gravity Switch"/>
 </a>
+<a href="https://github.com/kinza7124/Traffic_Simulation-OS_Project">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kinza7124&repo=Traffic_Simulation-OS_Project&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&border_color=161B22" alt="Traffic simulation"/>
+</a>
 
 </div>
 
